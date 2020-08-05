@@ -10,17 +10,17 @@ ex:
 4 inverse_pyramid
 4 rhombus
 
-result:
+result:\
 ....O....\
 ...O.O...\
 ..O.O.O..\
 .O.O.O.O.\
-
+reverse\
 .O.O.O.O.\
 ..O.O.O..\
 ...O.O...\
 ....O....\
-
+rhombus\
 ....O....\
 ...O.O...\
 ..O.O.O..\
